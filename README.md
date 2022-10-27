@@ -2,12 +2,14 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 # NewsYouNeed 
 **Open-Source News Website Currently In Development! Focusing On News You Actually Care About :)**
+> If you would like to work on this with me, please message me on Discord at xStar#2222
 
 
 
 
-
-
+# To Do
+* Add Javascript and overall make site not look like its from the early 2000s
+* Add e-mail newsletter functional {User will have option to pick between daily or weekly summarys}
 
 
 

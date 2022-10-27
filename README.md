@@ -1,2 +1,3 @@
-# NewsYouNeed ![alt text](https://media.discordapp.net/attachments/987081703455621152/1035037928260382720/NYNLogo.png)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# NewsYouNeed 
 **Open-Source News Website Currently In Development! Focusing On News You Actually Care About :)**
